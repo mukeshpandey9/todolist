@@ -8,7 +8,7 @@
 <a href="https://todolistm.onrender.com/" target="_blank" >Make your TODO list</a>
 <br/>
 <br/>
-***MAIN FEATURE***
+<h3>***MAIN FEATURE***</h3>
 <br/>
 -> Whenever you hit an endpoint manually by changing the url a new list for that List type 
 Example :- 
