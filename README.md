@@ -5,11 +5,12 @@
 <h4>Technology used:- </h4>
 <p>EJS, Javascript, Node Js, Express, MongoDB </p>
 <br/>
-<a href="https://daily-journal-ze8i.onrender.com/" >Make your TODO list</a>
+<a href="https://todolistm.onrender.com/" target="_blank" >Make your TODO list</a>
+<br/>
 <br/>
 ***MAIN FEATURE***
 -> Whenever you hit an endpoint manually by changing the url a new list for that List type 
 Example :- 
 Let us create a todo list for a wedding todo list
 
-https://daily-journal-ze8i.onrender.com/wedding <---(This is the endpoint)
+https://todolistm.onrender.com/wedding <---(This is the endpoint)
