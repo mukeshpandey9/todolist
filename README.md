@@ -12,7 +12,9 @@
 <br/>
 <br/>
 -> Whenever you hit an endpoint manually by changing the url a new list for that List type 
+<br/>
 Example :- 
 Let us create a todo list for a wedding todo list
 <br/>
+<br>
 https://todolistm.onrender.com/wedding <---(This is the endpoint)
